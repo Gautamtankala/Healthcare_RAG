@@ -22,4 +22,3 @@ Treatment:
 - Exercise
 - Reduce salt intake
 - Medication
-- AIDS
